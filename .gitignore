@@ -1,0 +1,13 @@
+__pycache__/
+.pytest_cache/
+.venv/
+venv/
+env/
+wandb/
+outputs/
+data/processed/
+data/generated/
+*.pyc
+*.pyo
+*.ipynb_checkpoints
+
